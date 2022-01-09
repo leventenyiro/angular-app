@@ -31,3 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 `ng g c course`
 g - generate
 c - component
+
+## Service generate
+`ng g s email`
+s - service
